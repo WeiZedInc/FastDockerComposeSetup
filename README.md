@@ -7,5 +7,5 @@ curl -sSL https://raw.githubusercontent.com/WeiZedInc/FastDockerComposeSetup/ref
 #wget -O - https://raw.githubusercontent.com/WeiZedInc/FastDockerComposeSetup/refs/heads/main/setup.sh | bash
 ```
 
-Ctrl + O & Enter to save nano file
-Ctrl + X to exit nano editor
+## Ctrl + O & Enter to save nano file
+## Ctrl + X to exit nano editor
