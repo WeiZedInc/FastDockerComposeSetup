@@ -4,7 +4,7 @@ curl -sSL https://raw.githubusercontent.com/WeiZedInc/FastDockerComposeSetup/ref
 ```
 `or`
 ```bash
-#wget -O - https://raw.githubusercontent.com/WeiZedInc/FastDockerComposeSetup/refs/heads/main/setup.sh | bash
+wget -O - https://raw.githubusercontent.com/WeiZedInc/FastDockerComposeSetup/refs/heads/main/setup.sh | bash
 ```
 
 ## Ctrl + O & Enter to save nano file
